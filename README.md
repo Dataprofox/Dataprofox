@@ -8,7 +8,7 @@ Aspiring software Developer
 * 🖥️  See my portfolio at [My website](http://myapp.com)
 * ✉️  You can contact me at [dataproplas@gmail.com](mailto:dataproplas@gmail.com)
 * 🚀  I'm currently working on [My Power BI project](http://myapp.com)
-* 🧠  I'm learning SQL, Power BI and python
+* 🧠  I'm learning Advanced Excel, SQL, Power BI and python
 * 🤝  I'm open to collaborating on python for Bigner project
 * ⚡  Hiking & Geography
 
