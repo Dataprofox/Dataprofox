@@ -21,10 +21,11 @@ Business and Data Analytics
 ### Work Experiance
   -Data Analyst
    Big Impact Project 1!
+   --------------------
    
   -Compliance Specialist
   Big Impact Project 1!
-  
+  ----------------------
 
 ### Skills
 
