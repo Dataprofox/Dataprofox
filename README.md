@@ -1,7 +1,7 @@
 Hi 👋 My name is Teddy Berhanu
 ==============================
 
-Aspiring software Developer
+Aspiring software Developer / Data Analyst 
 ---------------------------
 
 * 🌍  I'm based in Lascolinas
@@ -11,6 +11,20 @@ Aspiring software Developer
 * 🧠  I'm learning Advanced Excel, SQL, Power BI and python
 * 🤝  I'm open to collaborating on python for Bigner project
 * ⚡  Hiking & Geography
+
+
+# Data Analyst
+
+### Education
+Business and Data Analytics
+
+### Work Experiance
+  -Data Analyst
+   Big Impact Project 1!
+   
+  -Compliance Specialist
+  Big Impact Project 1!
+  
 
 ### Skills
 
